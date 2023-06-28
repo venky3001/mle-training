@@ -16,3 +16,10 @@ The following techniques have been used:
 
 ## To excute the script
 python < scriptname.py >
+
+## To activate the environment
+conda -create --name mle-dev-envr
+conda activate mle-dev-envr
+
+## To export the environment file without prefix
+conda env export | grep -v "^prefix: " > environment.yml
