@@ -1,0 +1,16 @@
+{
+    "python.defaultInterpreterPath": "python",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportMissingModuleSource": "none"
+    },
+    "python.linting.flake8Args": [
+        "--ignore=E402",
+        "--max-line-length=88",
+    ],
+    "python.formatting.provider": "black",
+}
