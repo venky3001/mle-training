@@ -1,0 +1,4 @@
+27-07-2023 16:08:13 - WARNING - tigerml.model_eval.plotters.interpretation::get_errorbucket_profiles::849 - Residual Analysis: Ignoring 17 observations in train data for error analysis where y=0
+27-07-2023 16:08:13 - WARNING - tigerml.model_eval.plotters.interpretation::get_errorbucket_profiles::868 - Residual Analysis: Ignoring 7 observations in test data for error analysis where y=0
+27-07-2023 16:10:52 - WARNING - tigerml.model_eval.plotters.interpretation::get_errorbucket_profiles::849 - Residual Analysis: Ignoring 17 observations in train data for error analysis where y=0
+27-07-2023 16:10:52 - WARNING - tigerml.model_eval.plotters.interpretation::get_errorbucket_profiles::868 - Residual Analysis: Ignoring 7 observations in test data for error analysis where y=0
